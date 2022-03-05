@@ -1,5 +1,6 @@
 # CustomMessageBoxWPF
 WPF Material Design Custom Message Box
+
 Types of custom message boxes
 
 1. Ok and Cancel
@@ -18,7 +19,7 @@ Yes and No Message Box :
 
    ![image](https://user-images.githubusercontent.com/34879901/156876693-09b09c98-8e54-425b-96b7-f6e94e0ab6fc.png)
 
-Types of Ok Message Box : 
+Types of Ok Message Boxes : 
 
 ![image](https://user-images.githubusercontent.com/34879901/156876832-3e12b152-44bf-4faa-bca3-1d2c56ee52b0.png)
 
